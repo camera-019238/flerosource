@@ -1,0 +1,32 @@
+{
+  "name": "Unlocked Games",
+  "subtitle": "A source where you can install paid apps freely.",
+  "description": "GD",
+  "iconURL": "https://i.imgur.com/nDNNIk5.png",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "headerURL": "https://i.imgur.com/kp8WPWA.png",
+  "apps": [
+    {
+      "name": "Flero",
+      "bundleIdentifier": "com.camera019238.fleroclient",
+      "marketplaceID": "",
+      "developerName": "SP67",
+      "subtitle": "Geometry Dash, but with a twist.",
+      "localizedDescription": "GGs",
+      "iconURL": "https://i.imgur.com/JXKurXM.png",
+      "tintColor": "#e45c0c",
+      "category": "games",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
