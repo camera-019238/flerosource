@@ -12,19 +12,20 @@
     {
       "name": "Flero",
       "bundleIdentifier": "com.sp67.flero",
+      "marketplaceID": "",
       "developerName": "SP67",
       "subtitle": "Geometry Dash, but with a twist.",
       "localizedDescription": "GGs",
       "iconURL": "https://i.imgur.com/JXKurXM.png",
       "tintColor": "#e45c0c",
-      "screenshotURLs": [],
+      "screenshots": [],
       "versions": [
         {
           "version": "0.0.9-4",
           "buildVersion": "1",
           "date": "2024-01-01T00:00:00-00:00",
-          "size": 1,
-          "downloadURL": "https://drive.usercontent.google.com/download?id=11mmFbBkfNGByWus8L8iA5x_oyD6Qe9Us&export=download&authuser=0",
+          "size": 1000000,
+          "downloadURL": "https://github.com/camera-019238/flerosource/releases/download/Flero/Flero.v0.0.9-4.ipa",
           "localizedDescription": "Initial release."
         }
       ]
