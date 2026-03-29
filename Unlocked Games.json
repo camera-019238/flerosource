@@ -4,14 +4,14 @@
   "subtitle": "Paid apps for free",
   "description": "Paid apps for free",
   "iconURL": "https://i.imgur.com/JXKurXM.png",
+  "headerURL": "",
   "website": "https://camera-019238.github.io",
   "tintColor": "#e45c0c",
   "featuredApps": [],
-  "news": [],
   "apps": [
     {
       "name": "Flero",
-      "bundleIdentifier": "com.camera019238.fleroclient",
+      "bundleIdentifier": "com.sp67.flero",
       "developerName": "SP67",
       "subtitle": "Geometry Dash, but with a twist.",
       "localizedDescription": "GGs",
@@ -20,13 +20,15 @@
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "1.0",
-          "date": "2024-01-01",
-          "localizedDescription": "Initial release.",
-          "downloadURL": "https://camera-019238.github.io/flero.ipa",
-          "size": 1
+          "version": "0.0.9-4",
+          "buildVersion": "1",
+          "date": "2024-01-01T00:00:00-00:00",
+          "size": 1,
+          "downloadURL": "https://drive.usercontent.google.com/download?id=11mmFbBkfNGByWus8L8iA5x_oyD6Qe9Us&export=download&authuser=0",
+          "localizedDescription": "Initial release."
         }
       ]
     }
-  ]
+  ],
+  "news": []
 }
