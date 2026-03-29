@@ -5,14 +5,13 @@
   "description": "Paid apps for free",
   "iconURL": "https://i.imgur.com/JXKurXM.png",
   "headerURL": "",
-  "website": "https://camera-019238.github.io",
+  "website": "https://camera-019238.github.io/",
   "tintColor": "#e45c0c",
   "featuredApps": [],
   "apps": [
     {
       "name": "Flero",
       "bundleIdentifier": "com.sp67.flero",
-      "marketplaceID": "",
       "developerName": "SP67",
       "subtitle": "Geometry Dash, but with a twist.",
       "localizedDescription": "GGs",
